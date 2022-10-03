@@ -11,9 +11,6 @@
 
 - 🌱 I’m currently learning **React, Node and many exciting technologies.**
 
-- 👨‍💻 All of my projects are available at [www.dev.to](www.dev.to)
-
-- 📝 I regularly write articles on [tech,code](tech,code)
 
 - 📫 How to reach me **patidardev084@gmail.com**
 
